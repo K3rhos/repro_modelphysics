@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Editor": {
+      "commandName": "Executable",
+      "executablePath": "E:\\steamlibrary\\steamapps\\common\\sbox\\sbox-dev.exe",
+      "commandLineArgs": "-project \u0022c:\\users\\k3rhos\\documents\\s\u0026box projects\\repro_modelphysics\\repro_modelphysics.sbproj\u0022"
+    }
+  }
+}
